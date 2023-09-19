@@ -2,7 +2,7 @@
 
 echo "Hello world, I am learning Devops with AWS"
 PERSON1=RISH
-PERSON2=SURESH
+PERSON2=sai
 
 
 echo "$PERSON1: Hi $PERSON2, What's up?"
