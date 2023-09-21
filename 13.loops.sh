@@ -22,7 +22,8 @@ do
         yum install $i -y
     else    
         echo -e "$Y $i is already installed $N"
-        fi
+    fi
+done
 
 
 
