@@ -1,6 +1,6 @@
 #!/bin/bash
 DATE=$(date +%F)
-LOGSDIR=/shell-scripting/shellscript-logs
+LOGSDIR=/home/redhatvm/shell-scripting/shellscript-logs
 LOGFILE=$LOGSDIR/$0-$DATE.log
 USERID=$(id -u)
 R="\e[31m"
