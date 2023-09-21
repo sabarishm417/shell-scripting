@@ -1,5 +1,5 @@
 #!/bin/bash
-DATE=$(date %+F)
+DATE=$(date +%F)
 LOGSDIR=/shell-scripting/shellscript-logs
 
 USERID=$(id -u)
